@@ -1,3 +1,3 @@
 for ([initialization]; [condition]; [iteration]) {
-  [loopBoday];
+  [loopBody];
 }
